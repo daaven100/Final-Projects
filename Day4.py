@@ -1,3 +1,5 @@
+# This code is a simple rock, paper and scissors game. This is an interactive game where a user is up against the code, which randomly selects an output
+
 rock = '''
     _______
 ---'   ____)
