@@ -1,3 +1,5 @@
+# This code is a simple maze game developed to interact with its user.
+
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.")
 #write your code below
