@@ -1,3 +1,5 @@
+# This code is a weather forecast application, it receives information from an API Key and sorts it out in an arraged order.
+
 import requests
 import json
 
