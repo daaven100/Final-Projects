@@ -1,3 +1,5 @@
+# This code is a To-Do-list manager, it manages and organizes a list with various sections.
+
 class Task:
     def __init__(self, title, description):
         self.title = title
