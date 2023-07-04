@@ -1,3 +1,5 @@
+# This code is a password Manager project. A class that manages a collection of passwords for different websites
+
 class PasswordManager:
     def __init__(self):
         self.passwords = {}
